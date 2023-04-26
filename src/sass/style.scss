@@ -1,0 +1,13 @@
+//importing bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+//importing variables
+@import "variables";
+
+//importing of the base configuration
+@import "base";
+
+@import "mixin";
+
+//importing index style
+@import "index";

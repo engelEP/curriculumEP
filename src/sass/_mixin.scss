@@ -1,0 +1,5 @@
+@mixin titleStyle($size) {
+    text-align: left;
+    font-size: $size;
+    font-weight: 700;
+}
